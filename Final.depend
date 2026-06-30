@@ -1,0 +1,356 @@
+# depslib dependency file v1.0
+1765244973 source:z:\desktop\3dgames25\remote\final\main.cpp
+
+1769932762 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\main.cpp
+	<windows.h>
+	<_common.h>
+	<_game.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_common.h
+	<algorithm>
+	<array>
+	<cctype>
+	<cmath>
+	<chrono>
+	<cstdlib>
+	<deque>
+	<fstream>
+	<functional>
+	<gl/glew.h>
+	<gl/glut.h>
+	<gl/gl.h>
+	<iostream>
+	<limits>
+	<string>
+	<vector>
+	<windows.h>
+
+1764807206 c:\users\ab500\onedrive\desktop\3dgames\common\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1764807206 c:\users\ab500\onedrive\desktop\3dgames\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1769932762 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_game.h
+	<_common.h>
+	<_level0.h>
+	<_level1.h>
+	<_level2.h>
+	<_scene.h>
+	<_sound.h>
+	<_uiManager.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_level0.h
+	<_common.h>
+	<_scene.h>
+	<_inputs.h>
+	<_timer.h>
+	<objLoader.h>
+	<_objModel.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_scene.h
+	<_common.h>
+	<_light.h>
+	<_texture.h>
+	<_skybox.h>
+	<_camera.h>
+	<_model.h>
+	<_player.h>
+	<_fallAssignmentMgr.h>
+	<_collision.h>
+	<_parallax.h>
+	<_platform.h>
+	<_particles.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_light.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_texture.h
+	<_common.h>
+	<SOIL2.h>
+
+1764807206 c:\users\ab500\onedrive\desktop\3dgames\common\include\soil2.h
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_skybox.h
+	<_common.h>
+	<_texture.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_camera.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_model.h
+	<_common.h>
+	<_texture.h>
+	"Anorms.h"
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\anorms.h
+
+1769932762 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_player.h
+	<_model.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_fallassignmentmgr.h
+	<_common.h>
+	<_fallAssignment.h>
+	<_texture.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_fallassignment.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_collision.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_parallax.h
+	<_common.h>
+	<_texture.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_platform.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_particles.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_inputs.h
+	<_common.h>
+	<_parallax.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_timer.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\objloader.h
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_objmodel.h
+	<_common.h>
+	<objLoader.h>
+
+1769932762 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_level1.h
+	<_common.h>
+	<_scene.h>
+
+1769932762 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_level2.h
+	<_common.h>
+	<_scene.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_sound.h
+	<_common.h>
+	<SNDS/irrKlang.h>
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_esoundoutputdrivers.h
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_esoundengineoptions.h
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_estreammodes.h
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1769932764 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1769932762 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_uimanager.h
+	<_common.h>
+	<_uiPage.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_uipage.h
+	<_common.h>
+	<_uiObject.h>
+	<_uiButton.h>
+	<_uiText.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_uiobject.h
+	<_common.h>
+	<_texture.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_uibutton.h
+	<_uiObject.h>
+	<_common.h>
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_uitext.h
+	<_uiObject.h>
+	<_common.h>
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_camera.cpp
+	"_camera.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_collision.cpp
+	"_collision.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_fallassignment.cpp
+	"_fallAssignment.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_fallassignmentmgr.cpp
+	"_fallAssignmentMgr.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_game.cpp
+	"_game.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_inputs.cpp
+	"_inputs.h"
+	"_objModel.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_level0.cpp
+	"_level0.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_level1.cpp
+	"_level1.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_level2.cpp
+	"_level2.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_light.cpp
+	"_light.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_model.cpp
+	"_model.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_objmodel.cpp
+	"_objModel.h"
+	<objLoader.h>
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_parallax.cpp
+	"_parallax.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_particles.cpp
+	"_particles.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_platform.cpp
+	"_platform.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_player.cpp
+	"_player.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_scene.cpp
+	"_scene.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_shader.cpp
+	"_shader.h"
+
+1769932763 c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\include\_shader.h
+	<_common.h>
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_skybox.cpp
+	"_skybox.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_sound.cpp
+	"_sound.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_texture.cpp
+	"_texture.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_timer.cpp
+	"_timer.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_uibutton.cpp
+	"_uiButton.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_uimanager.cpp
+	"_uiManager.h"
+
+1769932767 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_uiobject.cpp
+	"_uiObject.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_uipage.cpp
+	"_uiPage.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\_uitext.cpp
+	"_uiText.h"
+
+1769932768 source:c:\users\ab500\onedrive\desktop\3dgames\completedfinalgame\final\src\objloader.cpp
+	"objLoader.h"
+	<_common.h>
+	<sstream>
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Final" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Final" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Mac/Home/Desktop/3Dgames25/common/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Final" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Mac/Home/Desktop/3Dgames25/common/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-m32" />
+			<Add directory="C:/Mac/Home/Desktop/3Dgames25/common/include" />
+			<Add directory="include" />
+			<Add directory="src" />
+			<Add directory="C:/Users/ab500/OneDrive/Desktop/3dGames/CompletedFinalGame/Final/include" />
+			<Add directory="C:/Users/ab500/OneDrive/Desktop/3dGames/common/include" />
+			<Add directory="bin/Release/assets" />
+		</Compiler>
+		<Linker>
+			<Add option="-static-libstdc++" />
+			<Add option="-static-libgcc" />
+			<Add option="-static" />
+			<Add option="-m32" />
+			<Add library="../../common/lib/libMyLib.a" />
+			<Add library="C:/Users/ab500/OneDrive/Desktop/3dGames/common/lib/glew32s.lib" />
+			<Add library="C:/Users/ab500/OneDrive/Desktop/3dGames/common/lib/libirrKlang.a" />
+			<Add library="freeglut" />
+			<Add library="C:/Users/ab500/OneDrive/Desktop/3dGames/common/lib/freeglut.lib" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Mac/Home/Desktop/3Dgames25/common/lib" />
+			<Add directory="C:/Users/ab500/OneDrive/Desktop/3dGames/common/lib" />
+		</Linker>
+		<Unit filename="include/Anorms.h" />
+		<Unit filename="include/SNDS/ik_ESoundEngineOptions.h" />
+		<Unit filename="include/SNDS/ik_ESoundOutputDrivers.h" />
+		<Unit filename="include/SNDS/ik_EStreamModes.h" />
+		<Unit filename="include/SNDS/ik_IAudioRecorder.h" />
+		<Unit filename="include/SNDS/ik_IAudioStream.h" />
+		<Unit filename="include/SNDS/ik_IAudioStreamLoader.h" />
+		<Unit filename="include/SNDS/ik_IFileFactory.h" />
+		<Unit filename="include/SNDS/ik_IFileReader.h" />
+		<Unit filename="include/SNDS/ik_IRefCounted.h" />
+		<Unit filename="include/SNDS/ik_ISound.h" />
+		<Unit filename="include/SNDS/ik_ISoundDeviceList.h" />
+		<Unit filename="include/SNDS/ik_ISoundEffectControl.h" />
+		<Unit filename="include/SNDS/ik_ISoundEngine.h" />
+		<Unit filename="include/SNDS/ik_ISoundMixedOutputReceiver.h" />
+		<Unit filename="include/SNDS/ik_ISoundSource.h" />
+		<Unit filename="include/SNDS/ik_ISoundStopEventReceiver.h" />
+		<Unit filename="include/SNDS/ik_IVirtualRefCounted.h" />
+		<Unit filename="include/SNDS/ik_SAudioStreamFormat.h" />
+		<Unit filename="include/SNDS/ik_irrKlangTypes.h" />
+		<Unit filename="include/SNDS/ik_vec3d.h" />
+		<Unit filename="include/SNDS/irrKlang.h" />
+		<Unit filename="include/_camera.h" />
+		<Unit filename="include/_collision.h" />
+		<Unit filename="include/_common.h" />
+		<Unit filename="include/_fallAssignment.h" />
+		<Unit filename="include/_fallAssignmentMgr.h" />
+		<Unit filename="include/_game.h" />
+		<Unit filename="include/_inputs.h" />
+		<Unit filename="include/_level0.h" />
+		<Unit filename="include/_level1.h" />
+		<Unit filename="include/_level2.h" />
+		<Unit filename="include/_light.h" />
+		<Unit filename="include/_model.h" />
+		<Unit filename="include/_objModel.h" />
+		<Unit filename="include/_parallax.h" />
+		<Unit filename="include/_particles.h" />
+		<Unit filename="include/_platform.h" />
+		<Unit filename="include/_player.h" />
+		<Unit filename="include/_scene.h" />
+		<Unit filename="include/_shader.h" />
+		<Unit filename="include/_skybox.h" />
+		<Unit filename="include/_sound.h" />
+		<Unit filename="include/_texture.h" />
+		<Unit filename="include/_timer.h" />
+		<Unit filename="include/_uiButton.h" />
+		<Unit filename="include/_uiManager.h" />
+		<Unit filename="include/_uiObject.h" />
+		<Unit filename="include/_uiPage.h" />
+		<Unit filename="include/_uiText.h" />
+		<Unit filename="include/objLoader.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/_camera.cpp" />
+		<Unit filename="src/_collision.cpp" />
+		<Unit filename="src/_fallAssignment.cpp" />
+		<Unit filename="src/_fallAssignmentMgr.cpp" />
+		<Unit filename="src/_game.cpp" />
+		<Unit filename="src/_inputs.cpp" />
+		<Unit filename="src/_level0.cpp" />
+		<Unit filename="src/_level1.cpp" />
+		<Unit filename="src/_level2.cpp" />
+		<Unit filename="src/_light.cpp" />
+		<Unit filename="src/_model.cpp" />
+		<Unit filename="src/_objModel.cpp" />
+		<Unit filename="src/_parallax.cpp" />
+		<Unit filename="src/_particles.cpp" />
+		<Unit filename="src/_platform.cpp" />
+		<Unit filename="src/_player.cpp" />
+		<Unit filename="src/_scene.cpp" />
+		<Unit filename="src/_shader.cpp" />
+		<Unit filename="src/_skybox.cpp" />
+		<Unit filename="src/_sound.cpp" />
+		<Unit filename="src/_texture.cpp" />
+		<Unit filename="src/_timer.cpp" />
+		<Unit filename="src/_uiButton.cpp" />
+		<Unit filename="src/_uiManager.cpp" />
+		<Unit filename="src/_uiObject.cpp" />
+		<Unit filename="src/_uiPage.cpp" />
+		<Unit filename="src/_uiText.cpp" />
+		<Unit filename="src/objLoader.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
